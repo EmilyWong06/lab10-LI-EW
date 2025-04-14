@@ -1,3 +1,6 @@
+# https://github.com/EmilyWong06/lab10-LI-EW.git
+# Emily Wong Partner 1
+# Lia Issakov Partner 2
 """
 calculator.py
 - Defines functions used to create a simple calculator
