@@ -1,5 +1,10 @@
+# https://github.com/EmilyWong06/lab10-LI-EW.git
+# Emily Wong Partner 1
+# Lia Issakov Partner 2
+
 import unittest
 from calculator import *
+
 
 class TestCalculator(unittest.TestCase):
     ######### Partner 2
