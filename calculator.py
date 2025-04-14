@@ -7,11 +7,10 @@ One function per operation, in order.
 # First example
 
 import math
+import math
+
 def add(a, b):
     return a + b
-
-
-import math
 
 def add(a, b): 
     return a + b
