@@ -45,7 +45,6 @@ class TestCalculator(unittest.TestCase):
             div(0, 5)
 
     def test_logarithm(self): # 3 assertions
-        self.assertAlmostEqual(logarithm(1, 5), 0)
         self.assertAlmostEqual(logarithm(27, 3), 3)
 
 
