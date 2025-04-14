@@ -30,7 +30,7 @@ def logarithm(a,b):
         raise ValueError
     if b <= 0:
         raise ValueError
-    return math.log(b, a)
+    return math.log(a, b)
 
 def mul(a, b):
     return a * b
